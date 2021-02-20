@@ -23,5 +23,5 @@ Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or joi
 ## Screenshots
 ![Phone screenshot](/Images/Phone.gif)
 ![Unity scene screenshot](/Images/Unity.gif)
-![echoAR console screenshot](/Images/Console%20(Front).JPG)
-![echoAR console screenshot](/Images/Console%20(Back).JPG)
+![echoAR console screenshot](/Images/Console%20(Front).png)
+![echoAR console screenshot](/Images/Console%20(Back).png)
