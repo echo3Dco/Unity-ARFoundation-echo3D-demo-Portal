@@ -1,4 +1,4 @@
-# Unity-ARFoundation-demo-Portal
+# Unity-ARFoundation-echo3D-demo-Portal
 An AR portal application with Unity, AR Foundation, and echo3D.
 
 ## Register
